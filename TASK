@@ -1,0 +1,27 @@
+1) File/scripts with built models (there must be comments, without comments the task is considered as unresolved)
+
+2) Excel file with answers to the following questions:
+
+1. What is the proportion of 1 in the "accept" sample?
+
+2. It is necessary to calculate the following for all interval variables:
+
+- Proportion of missing values
+- Median
+- Mean
+- Standard deviation
+- Are there any abnormal values, outliers?
+- Information Value
+3. It is necessary to calculate for all categorical variables the following:
+
+- Mode
+- Proportion of missing values
+- Information Value
+- Are there outliers, abnormal values?
+4. Build logistic regression only on approved applications with transformed WoE variables. What is the meaning of GINI? F1 measure?
+
+5. Conduct a Reject Inference analysis. What is the percentage of rejected applications?
+
+6. Build a logistic regression on all applications with transformed WoE variables. What GINI, F1 mean? Has the model changed?
+
+7. What model would you recommend for implementation in a productive environment? Give a detailed explanation
